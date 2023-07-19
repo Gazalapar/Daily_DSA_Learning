@@ -38,7 +38,6 @@ public class MergeSort {
             nums[n+l]=res[n];
 
         }
-
     }
 
 }
